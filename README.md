@@ -104,12 +104,9 @@ This project focuses on predicting customer churn using machine learning techniq
 - Incorporate deep learning models like LSTM or CNN for sequential data analysis.
 - Implement explainable AI techniques (e.g., SHAP) for better interpretability.
 - Develop a user-friendly dashboard for real-time churn insights.
-
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
-
 ## Acknowledgments
-- [IBM Telco Customer Churn Dataset](https://github.com/IBM/telco-customer-churn-on-icp4d)
+- IBM Telco Customer Churn Dataset(https://github.com/IBM/telco-customer-churn-on-icp4d)
 - Open-source libraries and tools that made this project possible.
 
-Feel free to customize this README template to better fit your project details and objectives.
